@@ -6,3 +6,7 @@ do not ask me for leaks pls i leak as i gooo
 ![image](Screenshot.png)
 ![image](Screenshot(1).png)
 ![image](Screenshot(2).png)
+![image](Screenshot(3).png)
+![image](Screenshot(4).png)
+
+dazallugetfoolz (jokes i luv u guys)
