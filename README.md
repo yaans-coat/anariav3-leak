@@ -15,8 +15,8 @@ the end
 
 these were stolen from yaans-coat's personal documentation:
 
-"adding ai would be the next big thing"
-"open-router key is safely hidden"
-"i decided to make my own music streaming with [x8rr's music api](https://gihtub.com/x8rr/music), i think i'll use yt music and soundcloud"
-"i gotta talk to idk about some of the stuff"
-"okay, working on back-end currently and im on a rooooollll"
+- "adding ai would be the next big thing"
+- "open-router key is safely hidden"
+- "i decided to make my own music streaming with [x8rr's music api](https://gihtub.com/x8rr/music), i think i'll use yt music and soundcloud"
+- "i gotta talk to idk about some of the stuff"
+- "okay, working on back-end currently and im on a rooooollll"
