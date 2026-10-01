@@ -1,3 +1,6 @@
+>[!WARNING]
+> This repo is archived now, stupid beery...
+
 # Anariav3-leak
 
 Hi, I'm [@beery-tomato](https://github.com/beery-tomato), I made this leak as a prank on yaans, he doesn't want ppl knowing so... also I got his gh account for like a couple days???
